@@ -1,0 +1,2 @@
+asd, Salon 2, System.Collections.Generic.List`1[System.String]
+fds, Salon3, System.Collections.Generic.List`1[System.String]
